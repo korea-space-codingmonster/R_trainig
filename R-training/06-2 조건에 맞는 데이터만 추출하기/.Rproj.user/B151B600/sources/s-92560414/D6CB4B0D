@@ -1,0 +1,23 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1619429752439.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "D6CB4B0D",
+    "lastKnownWriteTime" : 1619437055,
+    "last_content_update" : 1619437055356,
+    "path" : "C:/Users/namju/Desktop/R-training/06-2 조건에 맞는 데이터만 추출하기/조건에 맞는 데이터만 추출하기.R",
+    "project_path" : "조건에 맞는 데이터만 추출하기.R",
+    "properties" : {
+        "cursorPosition" : "28,14",
+        "scrollLine" : "8",
+        "tempName" : "Untitled1"
+    },
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}

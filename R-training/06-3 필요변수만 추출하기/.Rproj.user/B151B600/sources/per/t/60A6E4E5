@@ -1,0 +1,23 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1619437183943.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "379189303",
+    "id" : "60A6E4E5",
+    "lastKnownWriteTime" : 1619452232,
+    "last_content_update" : 1619452232230,
+    "path" : "C:/Users/namju/Desktop/R-training/06-3 필요변수만 추출하기/06-3 필요변수만 추출하기.R",
+    "project_path" : "06-3 필요변수만 추출하기.R",
+    "properties" : {
+        "cursorPosition" : "33,0",
+        "scrollLine" : "2",
+        "tempName" : "Untitled1"
+    },
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}

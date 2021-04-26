@@ -1,0 +1,23 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1619417584047.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "1167184239",
+    "id" : "E01A223B",
+    "lastKnownWriteTime" : 1619424130,
+    "last_content_update" : 1619424130367,
+    "path" : "C:/Users/namju/Desktop/R-training/05 - 3 파생변수 만들기/05 - 3 파생변수 만들기.R",
+    "project_path" : "05 - 3 파생변수 만들기.R",
+    "properties" : {
+        "cursorPosition" : "25,41",
+        "scrollLine" : "14",
+        "tempName" : "Untitled1"
+    },
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}

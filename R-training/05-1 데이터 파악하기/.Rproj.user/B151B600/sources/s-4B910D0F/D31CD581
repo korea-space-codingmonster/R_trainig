@@ -1,0 +1,23 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1619407821890.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "D31CD581",
+    "lastKnownWriteTime" : 1619417289,
+    "last_content_update" : 1619417289565,
+    "path" : "C:/Users/namju/Desktop/R-training/05-1 데이터 파악하기/05-1, 05-2 데이터 파악, 변수명 바꾸기.R",
+    "project_path" : "05-1, 05-2 데이터 파악, 변수명 바꾸기.R",
+    "properties" : {
+        "cursorPosition" : "30,3",
+        "scrollLine" : "11",
+        "tempName" : "Untitled1"
+    },
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}

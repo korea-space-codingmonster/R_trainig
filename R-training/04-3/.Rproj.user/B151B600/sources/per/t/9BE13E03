@@ -1,0 +1,23 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1619405385478.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "2318860750",
+    "id" : "9BE13E03",
+    "lastKnownWriteTime" : 1619407732,
+    "last_content_update" : 1619407732854,
+    "path" : "C:/Users/namju/Desktop/R-training/04-3/04-3 외부데이터 이용하기.R",
+    "project_path" : "04-3 외부데이터 이용하기.R",
+    "properties" : {
+        "cursorPosition" : "17,0",
+        "scrollLine" : "0",
+        "tempName" : "Untitled1"
+    },
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}
